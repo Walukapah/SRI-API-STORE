@@ -1,0 +1,55 @@
+{
+  "lastCheck": null,
+  "nextCheck": null,
+  "timezone": "Asia/Colombo",
+  "endpoints": {
+    "/download/youtubedl": {
+      "name": "YouTube Downloader",
+      "category": "download",
+      "status": "unknown",
+      "lastChecked": null,
+      "responseTime": null
+    },
+    "/download/youtubedl2": {
+      "name": "YouTube Downloader V2",
+      "category": "download",
+      "status": "unknown",
+      "lastChecked": null,
+      "responseTime": null
+    },
+    "/download/tiktokdl": {
+      "name": "TikTok Downloader",
+      "category": "download",
+      "status": "unknown",
+      "lastChecked": null,
+      "responseTime": null
+    },
+    "/download/instagramdl": {
+      "name": "Instagram Downloader",
+      "category": "download",
+      "status": "unknown",
+      "lastChecked": null,
+      "responseTime": null
+    },
+    "/download/textphoto": {
+      "name": "Text to Photo",
+      "category": "download",
+      "status": "unknown",
+      "lastChecked": null,
+      "responseTime": null
+    },
+    "/search/freefire": {
+      "name": "Free Fire Player Info",
+      "category": "search",
+      "status": "unknown",
+      "lastChecked": null,
+      "responseTime": null
+    }
+  },
+  "summary": {
+    "online": 0,
+    "offline": 0,
+    "total": 0
+  },
+  "isChecking": false
+}
