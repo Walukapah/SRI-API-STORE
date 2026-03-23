@@ -1,60 +1,11 @@
 {
-  "lastCheckDate": "2026-03-23",
-  "lastCheckTime": "Mar 23, 2026, 08:58 PM",
+  "lastCheckDate": null,
+  "lastCheckTime": null,
   "nextCheckTime": "Mar 24, 2026, 05:30 AM",
-  "endpoints": {
-    "YouTube Downloader": {
-      "name": "YouTube Downloader",
-      "path": "/download/youtubedl",
-      "status": "online",
-      "lastChecked": "2026-03-23T09:58:17.794Z",
-      "responseStatus": 200,
-      "hasStatusTrue": true
-    },
-    "YouTube Downloader V2": {
-      "name": "YouTube Downloader V2",
-      "path": "/download/youtubedl2",
-      "status": "online",
-      "lastChecked": "2026-03-23T09:58:18.434Z",
-      "responseStatus": 200,
-      "hasStatusTrue": true
-    },
-    "TikTok Downloader": {
-      "name": "TikTok Downloader",
-      "path": "/download/tiktokdl",
-      "status": "online",
-      "lastChecked": "2026-03-23T09:58:21.931Z",
-      "responseStatus": 200,
-      "hasStatusTrue": true
-    },
-    "Instagram Downloader": {
-      "name": "Instagram Downloader",
-      "path": "/download/instagramdl",
-      "status": "online",
-      "lastChecked": "2026-03-23T09:58:22.625Z",
-      "responseStatus": 200,
-      "hasStatusTrue": true
-    },
-    "Text to Photo": {
-      "name": "Text to Photo",
-      "path": "/download/textphoto",
-      "status": "offline",
-      "lastChecked": "2026-03-23T09:58:23.047Z",
-      "responseStatus": 500,
-      "hasStatusTrue": false
-    },
-    "Free Fire Player Info": {
-      "name": "Free Fire Player Info",
-      "path": "/search/freefire",
-      "status": "online",
-      "lastChecked": "2026-03-23T09:58:23.684Z",
-      "responseStatus": 200,
-      "hasStatusTrue": true
-    }
-  },
+  "endpoints": {},
   "summary": {
-    "online": 5,
-    "offline": 1,
-    "total": 6
+    "online": 0,
+    "offline": 0,
+    "total": 0
   }
 }
