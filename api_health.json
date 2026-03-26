@@ -1,13 +1,13 @@
 {
-  "lastCheckDate": "2026-03-26",
-  "lastCheckTime": "Mar 26, 2026, 05:30 AM",
+  "lastCheckDate": "2026-03-27",
+  "lastCheckTime": "Mar 27, 2026, 05:30 AM",
   "nextCheckTime": "Mar 27, 2026, 05:30 AM",
   "endpoints": {
     "YouTube Downloader": {
       "name": "YouTube Downloader",
       "path": "/download/youtubedl",
       "status": "online",
-      "lastChecked": "2026-03-25T18:30:24.884Z",
+      "lastChecked": "2026-03-26T18:30:30.112Z",
       "responseStatus": 200,
       "hasStatusTrue": true
     },
@@ -15,7 +15,7 @@
       "name": "YouTube Downloader V2",
       "path": "/download/youtubedl2",
       "status": "online",
-      "lastChecked": "2026-03-25T18:30:27.082Z",
+      "lastChecked": "2026-03-26T18:30:31.317Z",
       "responseStatus": 200,
       "hasStatusTrue": true
     },
@@ -23,7 +23,7 @@
       "name": "TikTok Downloader",
       "path": "/download/tiktokdl",
       "status": "online",
-      "lastChecked": "2026-03-25T18:30:31.182Z",
+      "lastChecked": "2026-03-26T18:30:35.814Z",
       "responseStatus": 200,
       "hasStatusTrue": true
     },
@@ -31,7 +31,7 @@
       "name": "Instagram Downloader",
       "path": "/download/instagramdl",
       "status": "online",
-      "lastChecked": "2026-03-25T18:30:35.837Z",
+      "lastChecked": "2026-03-26T18:30:37.978Z",
       "responseStatus": 200,
       "hasStatusTrue": true
     },
@@ -39,7 +39,7 @@
       "name": "Text to Photo",
       "path": "/download/textphoto",
       "status": "offline",
-      "lastChecked": "2026-03-25T18:30:35.982Z",
+      "lastChecked": "2026-03-26T18:30:38.113Z",
       "responseStatus": 500,
       "hasStatusTrue": false
     },
@@ -47,7 +47,7 @@
       "name": "Free Fire Player Info",
       "path": "/search/freefire",
       "status": "online",
-      "lastChecked": "2026-03-25T18:30:41.101Z",
+      "lastChecked": "2026-03-26T18:30:42.721Z",
       "responseStatus": 200,
       "hasStatusTrue": true
     }
