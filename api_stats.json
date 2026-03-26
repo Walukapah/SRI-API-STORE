@@ -1,5 +1,5 @@
 {
-  "apiCalls": 3,
+  "apiCalls": 4,
   "visitors": 2,
   "totalVisitors": 0,
   "visitorData": {
@@ -8,8 +8,9 @@
   },
   "endpointCalls": {
     "YouTube Downloader": 2,
-    "YouTube Downloader V2": 1
+    "YouTube Downloader V2": 1,
+    "TikTok Downloader": 1
   },
-  "lastUpdated": "2026-03-26T18:30:30.321Z",
+  "lastUpdated": "2026-03-26T18:30:31.415Z",
   "lastVisitorDate": "2026-03-26"
 }
