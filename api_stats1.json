@@ -1,5 +1,5 @@
 {
-  "apiCalls": 8,
+  "apiCalls": 9,
   "visitors": 2,
   "totalVisitors": 2,
   "visitorData": {
@@ -9,11 +9,11 @@
   "endpointCalls": {
     "YouTube Downloader": 2,
     "YouTube Downloader V2": 2,
-    "TikTok Downloader": 1,
+    "TikTok Downloader": 2,
     "Instagram Downloader": 1,
     "Text to Photo": 1,
     "Free Fire Player Info": 1
   },
-  "lastUpdated": "2026-03-28T18:30:34.937Z",
+  "lastUpdated": "2026-03-28T18:30:37.366Z",
   "lastVisitorDate": "2026-03-28"
 }
