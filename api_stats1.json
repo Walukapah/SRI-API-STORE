@@ -1,11 +1,8 @@
 {
   "apiCalls": 12,
-  "visitors": 2,
-  "totalVisitors": 2,
-  "visitorData": {
-    "6fe110089bfd256b": "2026-03-28T05:56:01.451Z",
-    "e69b0e99d172c210": "2026-03-28T06:01:58.442Z"
-  },
+  "visitors": 0,
+  "totalVisitors": 4,
+  "visitorData": {},
   "endpointCalls": {
     "YouTube Downloader": 2,
     "YouTube Downloader V2": 2,
@@ -14,6 +11,6 @@
     "Text to Photo": 2,
     "Free Fire Player Info": 2
   },
-  "lastUpdated": "2026-03-28T23:59:32.375Z",
-  "lastVisitorDate": "2026-03-28"
+  "lastUpdated": "2026-03-29T00:00:32.376Z",
+  "lastVisitorDate": "2026-03-29"
 }
