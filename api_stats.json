@@ -1,9 +1,11 @@
 {
-  "apiCalls": 0,
+  "apiCalls": 1,
   "visitors": 0,
   "totalVisitors": 0,
   "visitorData": {},
-  "endpointCalls": {},
-  "lastUpdated": "2026-04-01T13:08:35.691Z",
+  "endpointCalls": {
+    "YouTube Downloader": 1
+  },
+  "lastUpdated": "2026-04-01T13:09:03.063Z",
   "lastVisitorDate": "2026-04-01"
 }
