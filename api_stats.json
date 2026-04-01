@@ -1,13 +1,14 @@
 {
-  "apiCalls": 4,
+  "apiCalls": 5,
   "visitors": 0,
   "totalVisitors": 0,
   "visitorData": {},
   "endpointCalls": {
     "YouTube Downloader": 2,
     "ChatGPT AI Chat": 1,
-    "YouTube Downloader V2": 1
+    "YouTube Downloader V2": 1,
+    "TikTok Downloader": 1
   },
-  "lastUpdated": "2026-04-01T18:30:38.378Z",
+  "lastUpdated": "2026-04-01T18:30:43.735Z",
   "lastVisitorDate": "2026-04-01"
 }
