@@ -1,0 +1,76 @@
+{
+  "lastCheckDate": "2026-04-01",
+  "lastCheckTime": "Apr 1, 2026, 02:01 PM",
+  "nextCheckTime": "Apr 2, 2026, 05:30 AM",
+  "endpoints": {
+    "YouTube Downloader": {
+      "name": "YouTube Downloader",
+      "path": "/download/youtubedl",
+      "status": "online",
+      "lastChecked": "2026-04-01T03:01:10.932Z",
+      "responseStatus": 200,
+      "hasStatusTrue": true
+    },
+    "YouTube Downloader V2": {
+      "name": "YouTube Downloader V2",
+      "path": "/download/youtubedl2",
+      "status": "online",
+      "lastChecked": "2026-04-01T03:01:14.138Z",
+      "responseStatus": 200,
+      "hasStatusTrue": true
+    },
+    "TikTok Downloader": {
+      "name": "TikTok Downloader",
+      "path": "/download/tiktokdl",
+      "status": "online",
+      "lastChecked": "2026-04-01T03:01:17.290Z",
+      "responseStatus": 200,
+      "hasStatusTrue": true
+    },
+    "Instagram Downloader": {
+      "name": "Instagram Downloader",
+      "path": "/download/instagramdl",
+      "status": "online",
+      "lastChecked": "2026-04-01T03:01:19.902Z",
+      "responseStatus": 200,
+      "hasStatusTrue": true
+    },
+    "Text to Photo": {
+      "name": "Text to Photo",
+      "path": "/download/textphoto",
+      "status": "offline",
+      "lastChecked": "2026-04-01T03:01:20.217Z",
+      "responseStatus": 500,
+      "hasStatusTrue": false
+    },
+    "Free Fire Player Info": {
+      "name": "Free Fire Player Info",
+      "path": "/search/freefire",
+      "status": "online",
+      "lastChecked": "2026-04-01T03:01:24.426Z",
+      "responseStatus": 200,
+      "hasStatusTrue": true
+    },
+    "ChatGPT AI": {
+      "name": "ChatGPT AI",
+      "path": "/ai/chatgpt",
+      "status": "online",
+      "lastChecked": "2026-04-01T03:01:25.249Z",
+      "responseStatus": 200,
+      "hasStatusTrue": true
+    },
+    "AI Art Generator": {
+      "name": "AI Art Generator",
+      "path": "/ai/artai",
+      "status": "offline",
+      "lastChecked": "2026-04-01T03:01:26.312Z",
+      "responseStatus": 200,
+      "hasStatusTrue": false
+    }
+  },
+  "summary": {
+    "online": 6,
+    "offline": 2,
+    "total": 8
+  }
+}
