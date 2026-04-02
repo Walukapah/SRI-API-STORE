@@ -1,5 +1,5 @@
 {
-  "apiCalls": 14,
+  "apiCalls": 15,
   "visitors": 1,
   "totalVisitors": 0,
   "visitorData": {
@@ -11,10 +11,10 @@
     "YouTube Downloader V2": 2,
     "TikTok Downloader": 2,
     "Instagram Downloader": 2,
-    "Text to Photo": 1,
-    "Free Fire Player Info": 1,
+    "Text to Photo": 2,
+    "Free Fire Player Info": 2,
     "AI Art Generator": 1
   },
-  "lastUpdated": "2026-04-02T18:30:43.500Z",
+  "lastUpdated": "2026-04-02T18:30:46.245Z",
   "lastVisitorDate": "2026-04-02"
 }
