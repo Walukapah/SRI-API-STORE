@@ -1,5 +1,5 @@
 {
-  "apiCalls": 17,
+  "apiCalls": 15,
   "visitors": 2,
   "totalVisitors": 1,
   "visitorData": {
@@ -7,11 +7,11 @@
     "e69b0e99d172c210": "2026-04-04T11:13:16.450Z"
   },
   "endpointCalls": {
-    "AI Art Generator": 14,
+    "AI Art Generator": 12,
     "Artai": 1,
     "YouTube Downloader": 1,
     "ChatGPT AI Chat": 1
   },
-  "lastUpdated": "2026-04-04T13:58:17.558Z",
+  "lastUpdated": "2026-04-04T13:58:23.414Z",
   "lastVisitorDate": "2026-04-04"
 }
