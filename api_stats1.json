@@ -1,5 +1,5 @@
 {
-  "apiCalls": 61,
+  "apiCalls": 62,
   "visitors": 1,
   "totalVisitors": 6,
   "visitorData": {
@@ -12,10 +12,10 @@
     "ChatGPT AI Chat": 6,
     "YouTube Downloader V2": 5,
     "TikTok Downloader": 6,
-    "Instagram Downloader": 4,
+    "Instagram Downloader": 5,
     "Text to Photo": 4,
     "Free Fire Player Info": 4
   },
-  "lastUpdated": "2026-04-08T18:30:25.804Z",
+  "lastUpdated": "2026-04-08T18:30:29.069Z",
   "lastVisitorDate": "2026-04-08"
 }
