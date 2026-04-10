@@ -1,22 +1,24 @@
 {
-  "apiCalls": 88,
-  "visitors": 2,
+  "apiCalls": 82,
+  "visitors": 4,
   "totalVisitors": 8,
   "visitorData": {
     "e69b0e99d172c210": "2026-04-10T10:21:47.951Z",
-    "bafb59405ab54d82": "2026-04-10T11:42:07.709Z"
+    "bafb59405ab54d82": "2026-04-10T11:42:07.709Z",
+    "0521e584db00688e": "2026-04-10T12:26:15.648Z",
+    "70c7555e6eeb0bf8": "2026-04-10T12:26:58.204Z"
   },
   "endpointCalls": {
-    "AI Art Generator": 32,
+    "AI Art Generator": 33,
     "Artai": 1,
-    "YouTube Downloader": 10,
-    "ChatGPT AI Chat": 9,
-    "YouTube Downloader V2": 7,
-    "TikTok Downloader": 8,
-    "Instagram Downloader": 7,
-    "Text to Photo": 7,
-    "Free Fire Player Info": 7
+    "YouTube Downloader": 9,
+    "ChatGPT AI Chat": 8,
+    "YouTube Downloader V2": 6,
+    "TikTok Downloader": 7,
+    "Instagram Downloader": 6,
+    "Text to Photo": 6,
+    "Free Fire Player Info": 6
   },
-  "lastUpdated": "2026-04-10T18:36:46.152Z",
+  "lastUpdated": "2026-04-10T18:37:00.165Z",
   "lastVisitorDate": "2026-04-10"
 }
