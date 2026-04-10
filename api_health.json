@@ -6,63 +6,71 @@
     "YouTube Downloader": {
       "name": "YouTube Downloader",
       "path": "/download/youtubedl",
-      "status": "offline",
-      "lastChecked": "2026-04-10T18:30:00.261Z",
-      "error": "fetch failed"
+      "status": "online",
+      "lastChecked": "2026-04-10T18:30:49.164Z",
+      "responseStatus": 200,
+      "hasStatusTrue": true
     },
     "YouTube Downloader V2": {
       "name": "YouTube Downloader V2",
       "path": "/download/youtubedl2",
-      "status": "offline",
-      "lastChecked": "2026-04-10T18:30:00.265Z",
-      "error": "fetch failed"
+      "status": "online",
+      "lastChecked": "2026-04-10T18:30:49.963Z",
+      "responseStatus": 200,
+      "hasStatusTrue": true
     },
     "TikTok Downloader": {
       "name": "TikTok Downloader",
       "path": "/download/tiktokdl",
-      "status": "offline",
-      "lastChecked": "2026-04-10T18:30:00.268Z",
-      "error": "fetch failed"
+      "status": "online",
+      "lastChecked": "2026-04-10T18:30:53.961Z",
+      "responseStatus": 200,
+      "hasStatusTrue": true
     },
     "Instagram Downloader": {
       "name": "Instagram Downloader",
       "path": "/download/instagramdl",
-      "status": "offline",
-      "lastChecked": "2026-04-10T18:30:00.270Z",
-      "error": "fetch failed"
+      "status": "online",
+      "lastChecked": "2026-04-10T18:30:58.643Z",
+      "responseStatus": 200,
+      "hasStatusTrue": true
     },
     "Text to Photo": {
       "name": "Text to Photo",
       "path": "/download/textphoto",
       "status": "offline",
-      "lastChecked": "2026-04-10T18:30:00.272Z",
-      "error": "fetch failed"
+      "lastChecked": "2026-04-10T18:30:59.495Z",
+      "responseStatus": 500,
+      "hasStatusTrue": false
     },
     "Free Fire Player Info": {
       "name": "Free Fire Player Info",
       "path": "/search/freefire",
-      "status": "offline",
-      "lastChecked": "2026-04-10T18:30:00.279Z",
-      "error": "fetch failed"
+      "status": "online",
+      "lastChecked": "2026-04-10T18:31:03.290Z",
+      "responseStatus": 200,
+      "hasStatusTrue": true
     },
     "ChatGPT AI": {
       "name": "ChatGPT AI",
       "path": "/ai/chatgpt",
-      "status": "offline",
-      "lastChecked": "2026-04-10T18:30:00.282Z",
-      "error": "fetch failed"
+      "status": "online",
+      "lastChecked": "2026-04-10T18:31:04.124Z",
+      "responseStatus": 200,
+      "hasStatusTrue": true
     },
     "AI Art Generator": {
       "name": "AI Art Generator",
       "path": "/ai/art",
       "status": "offline",
-      "lastChecked": "2026-04-10T18:30:00.285Z",
-      "error": "fetch failed"
+      "lastChecked": "2026-04-10T18:31:05.193Z",
+      "responseStatus": 500,
+      "hasStatusTrue": false
     }
   },
   "summary": {
-    "online": 0,
-    "offline": 8,
+    "online": 6,
+    "offline": 2,
     "total": 8
   }
 }
