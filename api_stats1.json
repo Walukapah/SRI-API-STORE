@@ -1,14 +1,15 @@
 {
-  "apiCalls": 97,
-  "visitors": 1,
+  "apiCalls": 105,
+  "visitors": 2,
   "totalVisitors": 10,
   "visitorData": {
-    "bafb59405ab54d82": "2026-04-11T15:01:20.017Z"
+    "70c7555e6eeb0bf8": "2026-04-11T10:55:37.783Z",
+    "4f517436df7e0c87": "2026-04-11T22:39:21.053Z"
   },
   "endpointCalls": {
-    "AI Art Generator": 34,
+    "AI Art Generator": 41,
     "Artai": 1,
-    "YouTube Downloader": 11,
+    "YouTube Downloader": 12,
     "ChatGPT AI Chat": 10,
     "YouTube Downloader V2": 8,
     "TikTok Downloader": 9,
@@ -16,6 +17,6 @@
     "Text to Photo": 8,
     "Free Fire Player Info": 8
   },
-  "lastUpdated": "2026-04-11T23:42:46.585Z",
+  "lastUpdated": "2026-04-11T23:43:23.151Z",
   "lastVisitorDate": "2026-04-11"
 }
