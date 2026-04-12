@@ -1,12 +1,12 @@
 {
-  "apiCalls": 105,
+  "apiCalls": 97,
   "visitors": 0,
-  "totalVisitors": 12,
+  "totalVisitors": 11,
   "visitorData": {},
   "endpointCalls": {
-    "AI Art Generator": 41,
+    "AI Art Generator": 34,
     "Artai": 1,
-    "YouTube Downloader": 12,
+    "YouTube Downloader": 11,
     "ChatGPT AI Chat": 10,
     "YouTube Downloader V2": 8,
     "TikTok Downloader": 9,
@@ -14,6 +14,6 @@
     "Text to Photo": 8,
     "Free Fire Player Info": 8
   },
-  "lastUpdated": "2026-04-12T01:42:23.241Z",
+  "lastUpdated": "2026-04-12T01:42:46.625Z",
   "lastVisitorDate": "2026-04-12"
 }
