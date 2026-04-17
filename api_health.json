@@ -1,13 +1,13 @@
 {
-  "lastCheckDate": "2026-04-17",
-  "lastCheckTime": "Apr 17, 2026, 05:30 AM",
+  "lastCheckDate": "2026-04-18",
+  "lastCheckTime": "Apr 18, 2026, 05:30 AM",
   "nextCheckTime": "Apr 18, 2026, 05:30 AM",
   "endpoints": {
     "YouTube Downloader": {
       "name": "YouTube Downloader",
       "path": "/download/youtubedl",
       "status": "online",
-      "lastChecked": "2026-04-16T18:30:09.957Z",
+      "lastChecked": "2026-04-17T18:30:09.695Z",
       "responseStatus": 200,
       "hasStatusTrue": true
     },
@@ -15,7 +15,7 @@
       "name": "YouTube Downloader V2",
       "path": "/download/youtubedl2",
       "status": "online",
-      "lastChecked": "2026-04-16T18:30:10.483Z",
+      "lastChecked": "2026-04-17T18:30:10.449Z",
       "responseStatus": 200,
       "hasStatusTrue": true
     },
@@ -23,7 +23,7 @@
       "name": "TikTok Downloader",
       "path": "/download/tiktokdl",
       "status": "online",
-      "lastChecked": "2026-04-16T18:30:12.159Z",
+      "lastChecked": "2026-04-17T18:30:11.977Z",
       "responseStatus": 200,
       "hasStatusTrue": true
     },
@@ -31,7 +31,7 @@
       "name": "Instagram Downloader",
       "path": "/download/instagramdl",
       "status": "online",
-      "lastChecked": "2026-04-16T18:30:17.564Z",
+      "lastChecked": "2026-04-17T18:30:13.453Z",
       "responseStatus": 200,
       "hasStatusTrue": true
     },
@@ -39,7 +39,7 @@
       "name": "Text to Photo",
       "path": "/download/textphoto",
       "status": "offline",
-      "lastChecked": "2026-04-16T18:30:17.629Z",
+      "lastChecked": "2026-04-17T18:30:13.523Z",
       "responseStatus": 500,
       "hasStatusTrue": false
     },
@@ -47,7 +47,7 @@
       "name": "Free Fire Player Info",
       "path": "/search/freefire",
       "status": "online",
-      "lastChecked": "2026-04-16T18:30:21.310Z",
+      "lastChecked": "2026-04-17T18:30:17.310Z",
       "responseStatus": 200,
       "hasStatusTrue": true
     },
@@ -55,7 +55,7 @@
       "name": "ChatGPT AI",
       "path": "/ai/chatgpt",
       "status": "online",
-      "lastChecked": "2026-04-16T18:30:22.303Z",
+      "lastChecked": "2026-04-17T18:30:18.876Z",
       "responseStatus": 200,
       "hasStatusTrue": true
     },
@@ -63,7 +63,7 @@
       "name": "AI Art Generator",
       "path": "/ai/aiart",
       "status": "online",
-      "lastChecked": "2026-04-16T18:30:22.877Z",
+      "lastChecked": "2026-04-17T18:30:19.422Z",
       "responseStatus": 200,
       "hasStatusTrue": true
     }
