@@ -1,11 +1,8 @@
 {
   "apiCalls": 227,
-  "visitors": 2,
-  "totalVisitors": 23,
-  "visitorData": {
-    "10d2d4b451dd718d": "2026-05-01T03:33:43.272Z",
-    "5dbeda05ad034b48": "2026-05-01T14:59:18.325Z"
-  },
+  "visitors": 0,
+  "totalVisitors": 25,
+  "visitorData": {},
   "endpointCalls": {
     "AI Art Generator": 57,
     "Artai": 1,
@@ -17,6 +14,6 @@
     "Text to Photo": 21,
     "Free Fire Player Info": 23
   },
-  "lastUpdated": "2026-05-01T23:57:06.412Z",
-  "lastVisitorDate": "2026-05-01"
+  "lastUpdated": "2026-05-02T00:00:06.418Z",
+  "lastVisitorDate": "2026-05-02"
 }
