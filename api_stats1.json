@@ -1,8 +1,10 @@
 {
   "apiCalls": 251,
-  "visitors": 0,
+  "visitors": 1,
   "totalVisitors": 26,
-  "visitorData": {},
+  "visitorData": {
+    "10d2d4b451dd718d": "2026-05-07T02:34:20.238Z"
+  },
   "endpointCalls": {
     "AI Art Generator": 60,
     "Artai": 1,
@@ -14,6 +16,6 @@
     "Text to Photo": 24,
     "Free Fire Player Info": 26
   },
-  "lastUpdated": "2026-05-07T02:33:31.193Z",
+  "lastUpdated": "2026-05-07T02:34:31.193Z",
   "lastVisitorDate": "2026-05-07"
 }
