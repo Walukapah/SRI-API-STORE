@@ -1,29 +1,29 @@
 {
-  "lastCheckDate": "2026-06-08",
-  "lastCheckTime": "Jun 8, 2026, 05:30 AM",
+  "lastCheckDate": "2026-06-09",
+  "lastCheckTime": "Jun 9, 2026, 05:30 AM",
   "nextCheckTime": "Jun 9, 2026, 05:30 AM",
   "endpoints": {
     "YouTube Downloader": {
       "name": "YouTube Downloader",
       "path": "/download/youtubedl",
       "status": "online",
-      "lastChecked": "2026-06-07T18:30:40.359Z",
+      "lastChecked": "2026-06-08T18:30:32.147Z",
       "responseStatus": 200,
       "hasStatusTrue": true
     },
     "YouTube Downloader V2": {
       "name": "YouTube Downloader V2",
       "path": "/download/youtubedl2",
-      "status": "online",
-      "lastChecked": "2026-06-07T18:30:42.931Z",
-      "responseStatus": 200,
-      "hasStatusTrue": true
+      "status": "offline",
+      "lastChecked": "2026-06-08T18:30:32.640Z",
+      "responseStatus": 500,
+      "hasStatusTrue": false
     },
     "TikTok Downloader": {
       "name": "TikTok Downloader",
       "path": "/download/tiktokdl",
       "status": "online",
-      "lastChecked": "2026-06-07T18:30:44.968Z",
+      "lastChecked": "2026-06-08T18:30:37.629Z",
       "responseStatus": 200,
       "hasStatusTrue": true
     },
@@ -31,7 +31,7 @@
       "name": "Instagram Downloader",
       "path": "/download/instagramdl",
       "status": "online",
-      "lastChecked": "2026-06-07T18:30:46.770Z",
+      "lastChecked": "2026-06-08T18:30:39.238Z",
       "responseStatus": 200,
       "hasStatusTrue": true
     },
@@ -39,7 +39,7 @@
       "name": "Text to Photo",
       "path": "/download/textphoto",
       "status": "offline",
-      "lastChecked": "2026-06-07T18:30:46.828Z",
+      "lastChecked": "2026-06-08T18:30:39.311Z",
       "responseStatus": 500,
       "hasStatusTrue": false
     },
@@ -47,7 +47,7 @@
       "name": "Free Fire Player Info",
       "path": "/search/freefire",
       "status": "online",
-      "lastChecked": "2026-06-07T18:30:50.267Z",
+      "lastChecked": "2026-06-08T18:30:42.767Z",
       "responseStatus": 200,
       "hasStatusTrue": true
     },
@@ -55,7 +55,7 @@
       "name": "ChatGPT AI",
       "path": "/ai/chatgpt",
       "status": "offline",
-      "lastChecked": "2026-06-07T18:30:50.337Z",
+      "lastChecked": "2026-06-08T18:30:42.871Z",
       "responseStatus": 500,
       "hasStatusTrue": false
     },
@@ -63,14 +63,14 @@
       "name": "AI Art Generator",
       "path": "/ai/aiart",
       "status": "online",
-      "lastChecked": "2026-06-07T18:30:50.878Z",
+      "lastChecked": "2026-06-08T18:30:43.429Z",
       "responseStatus": 200,
       "hasStatusTrue": true
     }
   },
   "summary": {
-    "online": 6,
-    "offline": 2,
+    "online": 5,
+    "offline": 3,
     "total": 8
   }
 }
