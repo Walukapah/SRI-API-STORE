@@ -1,8 +1,10 @@
 {
-  "apiCalls": 337,
-  "visitors": 0,
+  "apiCalls": 338,
+  "visitors": 1,
   "totalVisitors": 36,
-  "visitorData": {},
+  "visitorData": {
+    "99deae42e8634882": "2026-06-15T07:24:50.282Z"
+  },
   "endpointCalls": {
     "AI Art Generator": 71,
     "Artai": 1,
@@ -12,8 +14,9 @@
     "TikTok Downloader": 39,
     "Instagram Downloader": 34,
     "Text to Photo": 33,
-    "Free Fire Player Info": 36
+    "Free Fire Player Info": 36,
+    "AI Image Generator": 1
   },
-  "lastUpdated": "2026-06-15T07:24:09.542Z",
+  "lastUpdated": "2026-06-15T07:25:03.083Z",
   "lastVisitorDate": "2026-06-15"
 }
