@@ -1,5 +1,5 @@
 {
-  "apiCalls": 33,
+  "apiCalls": 34,
   "visitors": 0,
   "totalVisitors": 1,
   "visitorData": {},
@@ -7,8 +7,9 @@
     "Modrinth Plugin Search": 28,
     "YouTube Downloader": 3,
     "Instagram Downloader": 1,
-    "YouTube Downloader V2": 1
+    "YouTube Downloader V2": 1,
+    "TikTok Downloader": 1
   },
-  "lastUpdated": "2026-06-17T03:44:39.815Z",
+  "lastUpdated": "2026-06-17T03:44:40.316Z",
   "lastVisitorDate": "2026-06-17"
 }
