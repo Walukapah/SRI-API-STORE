@@ -1,5 +1,5 @@
 {
-  "apiCalls": 47,
+  "apiCalls": 49,
   "visitors": 1,
   "totalVisitors": 2,
   "visitorData": {
@@ -8,14 +8,14 @@
   "endpointCalls": {
     "Modrinth Plugin Search": 32,
     "YouTube Downloader": 6,
-    "Instagram Downloader": 2,
+    "Instagram Downloader": 3,
     "YouTube Downloader V2": 2,
     "TikTok Downloader": 2,
-    "Text to Photo": 1,
+    "Text to Photo": 2,
     "Free Fire Player Info": 1,
     "ChatGPT AI Chat": 1,
     "AI Art Generator": 1
   },
-  "lastUpdated": "2026-06-18T05:34:19.170Z",
+  "lastUpdated": "2026-06-18T05:34:21.590Z",
   "lastVisitorDate": "2026-06-18"
 }
