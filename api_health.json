@@ -1,76 +1,92 @@
 {
-  "lastCheckDate": "2026-07-04",
-  "lastCheckTime": "Jul 5, 2026, 01:21 AM",
+  "lastCheckDate": "2026-07-05",
+  "lastCheckTime": "Jul 5, 2026, 05:30 AM",
   "nextCheckTime": "Jul 5, 2026, 05:30 AM",
   "endpoints": {
     "YouTube Downloader": {
       "name": "YouTube Downloader",
       "path": "/download/youtubedl",
-      "status": "offline",
-      "lastChecked": "2026-07-04T14:21:29.303Z",
-      "responseStatus": 404,
-      "hasStatusTrue": false
+      "status": "online",
+      "lastChecked": "2026-07-04T18:30:22.436Z",
+      "responseStatus": 200,
+      "hasStatusTrue": true
     },
     "YouTube Downloader V2": {
       "name": "YouTube Downloader V2",
       "path": "/download/youtubedl2",
       "status": "offline",
-      "lastChecked": "2026-07-04T14:21:29.367Z",
-      "responseStatus": 404,
+      "lastChecked": "2026-07-04T18:30:23.239Z",
+      "responseStatus": 500,
       "hasStatusTrue": false
     },
     "TikTok Downloader": {
       "name": "TikTok Downloader",
       "path": "/download/tiktokdl",
-      "status": "offline",
-      "lastChecked": "2026-07-04T14:21:29.392Z",
-      "responseStatus": 404,
-      "hasStatusTrue": false
+      "status": "online",
+      "lastChecked": "2026-07-04T18:30:28.932Z",
+      "responseStatus": 200,
+      "hasStatusTrue": true
     },
     "Instagram Downloader": {
       "name": "Instagram Downloader",
       "path": "/download/instagramdl",
-      "status": "offline",
-      "lastChecked": "2026-07-04T14:21:29.417Z",
-      "responseStatus": 404,
-      "hasStatusTrue": false
+      "status": "online",
+      "lastChecked": "2026-07-04T18:30:29.635Z",
+      "responseStatus": 200,
+      "hasStatusTrue": true
     },
     "Text to Photo": {
       "name": "Text to Photo",
       "path": "/download/textphoto",
       "status": "offline",
-      "lastChecked": "2026-07-04T14:21:29.440Z",
-      "responseStatus": 404,
+      "lastChecked": "2026-07-04T18:30:30.031Z",
+      "responseStatus": 500,
       "hasStatusTrue": false
     },
     "Free Fire Player Info": {
       "name": "Free Fire Player Info",
       "path": "/search/freefire",
-      "status": "offline",
-      "lastChecked": "2026-07-04T14:21:29.465Z",
-      "responseStatus": 404,
-      "hasStatusTrue": false
+      "status": "online",
+      "lastChecked": "2026-07-04T18:30:34.930Z",
+      "responseStatus": 200,
+      "hasStatusTrue": true
     },
-    "ChatGPT AI": {
-      "name": "ChatGPT AI",
-      "path": "/ai/chatgpt",
-      "status": "offline",
-      "lastChecked": "2026-07-04T14:21:29.484Z",
-      "responseStatus": 404,
-      "hasStatusTrue": false
+    "AI Chat": {
+      "name": "AI Chat",
+      "path": "/ai/aichat",
+      "status": "online",
+      "lastChecked": "2026-07-04T18:30:40.988Z",
+      "responseStatus": 200,
+      "hasStatusTrue": true
     },
     "AI Art Generator": {
       "name": "AI Art Generator",
-      "path": "/ai/art",
-      "status": "offline",
-      "lastChecked": "2026-07-04T14:21:29.500Z",
-      "responseStatus": 404,
-      "hasStatusTrue": false
+      "path": "/ai/aiart",
+      "status": "online",
+      "lastChecked": "2026-07-04T18:30:42.234Z",
+      "responseStatus": 200,
+      "hasStatusTrue": true
+    },
+    "Modrinth Plugin Search": {
+      "name": "Modrinth Plugin Search",
+      "path": "/search/modrithpl",
+      "status": "online",
+      "lastChecked": "2026-07-04T18:30:43.048Z",
+      "responseStatus": 200,
+      "hasStatusTrue": true
+    },
+    "Modrinth Plugin Download": {
+      "name": "Modrinth Plugin Download",
+      "path": "/download/modrithpl",
+      "status": "online",
+      "lastChecked": "2026-07-04T18:30:43.637Z",
+      "responseStatus": 200,
+      "hasStatusTrue": true
     }
   },
   "summary": {
-    "online": 0,
-    "offline": 8,
-    "total": 8
+    "online": 8,
+    "offline": 2,
+    "total": 10
   }
 }
