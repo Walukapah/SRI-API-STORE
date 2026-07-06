@@ -1,11 +1,8 @@
 {
   "apiCalls": 158,
-  "visitors": 2,
-  "totalVisitors": 7,
-  "visitorData": {
-    "472cbd1fd3105f06": "2026-07-05T02:13:01.395Z",
-    "b8912017697c552c": "2026-07-05T04:49:37.648Z"
-  },
+  "visitors": 0,
+  "totalVisitors": 9,
+  "visitorData": {},
   "endpointCalls": {
     "Modrinth Plugin Search": 39,
     "YouTube Downloader": 12,
@@ -20,6 +17,6 @@
     "PornPics Search": 27,
     "PornPics Gallery Downloader": 7
   },
-  "lastUpdated": "2026-07-05T23:59:54.135Z",
-  "lastVisitorDate": "2026-07-05"
+  "lastUpdated": "2026-07-06T00:00:54.137Z",
+  "lastVisitorDate": "2026-07-06"
 }
