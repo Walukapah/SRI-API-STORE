@@ -1,5 +1,5 @@
 {
-  "apiCalls": 165,
+  "apiCalls": 167,
   "visitors": 2,
   "totalVisitors": 9,
   "visitorData": {
@@ -8,9 +8,9 @@
   },
   "endpointCalls": {
     "Modrinth Plugin Search": 39,
-    "YouTube Downloader": 13,
+    "YouTube Downloader": 14,
     "Instagram Downloader": 7,
-    "YouTube Downloader V2": 7,
+    "YouTube Downloader V2": 8,
     "TikTok Downloader": 8,
     "Text to Photo": 6,
     "Free Fire Player Info": 6,
@@ -20,6 +20,6 @@
     "PornPics Search": 27,
     "PornPics Gallery Downloader": 12
   },
-  "lastUpdated": "2026-07-06T18:30:51.315Z",
+  "lastUpdated": "2026-07-06T18:30:54.469Z",
   "lastVisitorDate": "2026-07-06"
 }
