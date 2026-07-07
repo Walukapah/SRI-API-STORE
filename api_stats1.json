@@ -7,7 +7,7 @@
   },
   "endpointCalls": {
     "Modrinth Plugin Search": 40,
-    "YouTube Downloader": 14,
+    "YouTube Downloader": 15,
     "Instagram Downloader": 8,
     "YouTube Downloader V2": 8,
     "TikTok Downloader": 9,
@@ -19,6 +19,6 @@
     "PornPics Search": 28,
     "PornPics Gallery Downloader": 13
   },
-  "lastUpdated": "2026-07-07T18:29:51.661Z",
+  "lastUpdated": "2026-07-07T18:30:51.661Z",
   "lastVisitorDate": "2026-07-07"
 }
