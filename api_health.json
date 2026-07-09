@@ -1,13 +1,13 @@
 {
-  "lastCheckDate": "2026-07-09",
-  "lastCheckTime": "Jul 9, 2026, 05:30 AM",
-  "nextCheckTime": "Jul 10, 2026, 05:30 AM",
+  "lastCheckDate": "2026-07-10",
+  "lastCheckTime": "Jul 10, 2026, 05:30 AM",
+  "nextCheckTime": "Jul 11, 2026, 05:30 AM",
   "endpoints": {
     "YouTube Downloader": {
       "name": "YouTube Downloader",
       "path": "/download/youtubedl",
       "status": "online",
-      "lastChecked": "2026-07-08T18:30:54.689Z",
+      "lastChecked": "2026-07-09T18:30:54.944Z",
       "responseStatus": 200,
       "hasStatusTrue": true
     },
@@ -15,7 +15,7 @@
       "name": "YouTube Downloader V2",
       "path": "/download/youtubedl2",
       "status": "offline",
-      "lastChecked": "2026-07-08T18:30:54.879Z",
+      "lastChecked": "2026-07-09T18:30:55.091Z",
       "responseStatus": 500,
       "hasStatusTrue": false
     },
@@ -23,7 +23,7 @@
       "name": "TikTok Downloader",
       "path": "/download/tiktokdl",
       "status": "online",
-      "lastChecked": "2026-07-08T18:30:59.670Z",
+      "lastChecked": "2026-07-09T18:30:59.682Z",
       "responseStatus": 200,
       "hasStatusTrue": true
     },
@@ -31,7 +31,7 @@
       "name": "Instagram Downloader",
       "path": "/download/instagramdl",
       "status": "online",
-      "lastChecked": "2026-07-08T18:31:00.105Z",
+      "lastChecked": "2026-07-09T18:31:00.329Z",
       "responseStatus": 200,
       "hasStatusTrue": true
     },
@@ -39,7 +39,7 @@
       "name": "Text to Photo",
       "path": "/download/textphoto",
       "status": "offline",
-      "lastChecked": "2026-07-08T18:31:00.274Z",
+      "lastChecked": "2026-07-09T18:31:00.479Z",
       "responseStatus": 500,
       "hasStatusTrue": false
     },
@@ -47,7 +47,7 @@
       "name": "Free Fire Player Info",
       "path": "/search/freefire",
       "status": "online",
-      "lastChecked": "2026-07-08T18:31:00.369Z",
+      "lastChecked": "2026-07-09T18:31:00.585Z",
       "responseStatus": 200,
       "hasStatusTrue": true
     },
@@ -55,23 +55,22 @@
       "name": "AI Chat",
       "path": "/ai/aichat",
       "status": "online",
-      "lastChecked": "2026-07-08T18:31:02.450Z",
+      "lastChecked": "2026-07-09T18:31:02.229Z",
       "responseStatus": 200,
       "hasStatusTrue": true
     },
     "AI Art Generator": {
       "name": "AI Art Generator",
       "path": "/ai/aiart",
-      "status": "online",
-      "lastChecked": "2026-07-08T18:31:03.568Z",
-      "responseStatus": 200,
-      "hasStatusTrue": true
+      "status": "offline",
+      "lastChecked": "2026-07-09T18:31:17.235Z",
+      "error": "This operation was aborted"
     },
     "Modrinth Plugin Search": {
       "name": "Modrinth Plugin Search",
       "path": "/search/modrithpl",
       "status": "online",
-      "lastChecked": "2026-07-08T18:31:03.823Z",
+      "lastChecked": "2026-07-09T18:31:17.538Z",
       "responseStatus": 200,
       "hasStatusTrue": true
     },
@@ -79,7 +78,7 @@
       "name": "Modrinth Plugin Download",
       "path": "/download/modrithpl",
       "status": "online",
-      "lastChecked": "2026-07-08T18:31:04.071Z",
+      "lastChecked": "2026-07-09T18:31:17.976Z",
       "responseStatus": 200,
       "hasStatusTrue": true
     },
@@ -87,7 +86,7 @@
       "name": "PornPics Search",
       "path": "/search/pornpicsearch",
       "status": "online",
-      "lastChecked": "2026-07-08T18:31:04.920Z",
+      "lastChecked": "2026-07-09T18:31:18.924Z",
       "responseStatus": 200,
       "hasStatusTrue": true
     },
@@ -95,14 +94,14 @@
       "name": "PornPics Gallery Downloader",
       "path": "/download/pornpicdl",
       "status": "online",
-      "lastChecked": "2026-07-08T18:31:05.043Z",
+      "lastChecked": "2026-07-09T18:31:19.042Z",
       "responseStatus": 200,
       "hasStatusTrue": true
     }
   },
   "summary": {
-    "online": 10,
-    "offline": 2,
+    "online": 9,
+    "offline": 3,
     "total": 12
   }
 }
