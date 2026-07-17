@@ -1,5 +1,5 @@
 {
-  "apiCalls": 455,
+  "apiCalls": 456,
   "visitors": 2,
   "totalVisitors": 21,
   "visitorData": {
@@ -24,8 +24,8 @@
     "Google Search": 3,
     "Google Image Search": 7,
     "Modrinth Download": 2,
-    "Modrinth Search": 1
+    "Modrinth Search": 2
   },
-  "lastUpdated": "2026-07-17T18:30:52.109Z",
+  "lastUpdated": "2026-07-17T18:30:53.225Z",
   "lastVisitorDate": "2026-07-17"
 }
