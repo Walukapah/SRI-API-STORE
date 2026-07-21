@@ -1,5 +1,5 @@
 {
-  "apiCalls": 556,
+  "apiCalls": 557,
   "visitors": 2,
   "totalVisitors": 26,
   "visitorData": {
@@ -24,8 +24,9 @@
     "Google Search": 15,
     "Google Image Search": 25,
     "Modrinth Download": 6,
-    "Modrinth Search": 5
+    "Modrinth Search": 5,
+    "Cinesubz Movie Downloader": 1
   },
-  "lastUpdated": "2026-07-21T04:27:11.839Z",
+  "lastUpdated": "2026-07-21T04:27:46.751Z",
   "lastVisitorDate": "2026-07-21"
 }
