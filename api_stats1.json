@@ -1,8 +1,10 @@
 {
-  "apiCalls": 660,
-  "visitors": 0,
+  "apiCalls": 661,
+  "visitors": 1,
   "totalVisitors": 30,
-  "visitorData": {},
+  "visitorData": {
+    "b8912017697c552c": "2026-07-25T05:00:39.391Z"
+  },
   "endpointCalls": {
     "Modrinth Plugin Search": 59,
     "YouTube Downloader": 38,
@@ -16,7 +18,7 @@
     "AI Chat": 28,
     "PornPics Search": 53,
     "PornPics Gallery Downloader": 31,
-    "PornHub Video Downloader": 129,
+    "PornHub Video Downloader": 130,
     "PornHub Video Search": 55,
     "Google Search": 19,
     "Google Image Search": 29,
@@ -24,6 +26,6 @@
     "Modrinth Search": 9,
     "Cinesubz Movie Downloader": 14
   },
-  "lastUpdated": "2026-07-25T05:00:11.585Z",
+  "lastUpdated": "2026-07-25T05:01:10.380Z",
   "lastVisitorDate": "2026-07-25"
 }
