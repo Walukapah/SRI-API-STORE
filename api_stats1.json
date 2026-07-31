@@ -1,18 +1,8 @@
 {
   "apiCalls": 802,
-  "visitors": 9,
-  "totalVisitors": 34,
-  "visitorData": {
-    "0fe3e6c40be9580a": "2026-07-30T02:08:08.015Z",
-    "74d0e5cd080f8c42": "2026-07-30T02:08:50.920Z",
-    "3ba36206c92e9b19": "2026-07-30T02:08:52.612Z",
-    "d790cf83d790305a": "2026-07-30T02:08:53.717Z",
-    "d74e9b63175a42f2": "2026-07-30T02:08:54.008Z",
-    "31030f35924f9fe5": "2026-07-30T02:08:54.052Z",
-    "f4a4fd8d852151f3": "2026-07-30T02:09:02.769Z",
-    "472cbd1fd3105f06": "2026-07-30T02:41:38.644Z",
-    "b8912017697c552c": "2026-07-30T04:45:05.694Z"
-  },
+  "visitors": 0,
+  "totalVisitors": 43,
+  "visitorData": {},
   "endpointCalls": {
     "Modrinth Plugin Search": 59,
     "YouTube Downloader": 69,
@@ -34,6 +24,6 @@
     "Modrinth Search": 16,
     "Cinesubz Movie Downloader": 20
   },
-  "lastUpdated": "2026-07-30T23:59:45.775Z",
-  "lastVisitorDate": "2026-07-30"
+  "lastUpdated": "2026-07-31T00:00:45.776Z",
+  "lastVisitorDate": "2026-07-31"
 }
