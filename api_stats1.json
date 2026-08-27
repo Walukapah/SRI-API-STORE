@@ -1,5 +1,5 @@
 {
-  "apiCalls": 1257,
+  "apiCalls": 1259,
   "visitors": 0,
   "totalVisitors": 59,
   "visitorData": {},
@@ -9,8 +9,8 @@
     "Instagram Downloader": 61,
     "YouTube Downloader V2": 61,
     "TikTok Downloader": 65,
-    "Text to Photo": 66,
-    "Free Fire Player Info": 67,
+    "Text to Photo": 67,
+    "Free Fire Player Info": 68,
     "ChatGPT AI Chat": 5,
     "AI Art Generator": 66,
     "AI Chat": 28,
@@ -24,6 +24,6 @@
     "Modrinth Search": 43,
     "Cinesubz Movie Downloader": 47
   },
-  "lastUpdated": "2026-08-27T18:30:23.757Z",
+  "lastUpdated": "2026-08-27T18:30:24.962Z",
   "lastVisitorDate": "2026-08-27"
 }
