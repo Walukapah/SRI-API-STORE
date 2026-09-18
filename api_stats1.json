@@ -1,14 +1,14 @@
 {
-  "apiCalls": 1606,
+  "apiCalls": 1609,
   "visitors": 0,
   "totalVisitors": 59,
   "visitorData": {},
   "endpointCalls": {
     "Modrinth Plugin Search": 59,
     "YouTube Downloader": 126,
-    "Instagram Downloader": 82,
-    "YouTube Downloader V2": 82,
-    "TikTok Downloader": 86,
+    "Instagram Downloader": 83,
+    "YouTube Downloader V2": 83,
+    "TikTok Downloader": 87,
     "Text to Photo": 88,
     "Free Fire Player Info": 89,
     "ChatGPT AI Chat": 5,
@@ -24,6 +24,6 @@
     "Modrinth Search": 65,
     "Cinesubz Movie Downloader": 69
   },
-  "lastUpdated": "2026-09-18T18:30:27.603Z",
+  "lastUpdated": "2026-09-18T18:30:37.357Z",
   "lastVisitorDate": "2026-09-18"
 }
