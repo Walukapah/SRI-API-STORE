@@ -1,13 +1,13 @@
 {
-  "apiCalls": 2005,
+  "apiCalls": 2007,
   "visitors": 0,
   "totalVisitors": 59,
   "visitorData": {},
   "endpointCalls": {
     "Modrinth Plugin Search": 59,
-    "YouTube Downloader": 150,
+    "YouTube Downloader": 151,
     "Instagram Downloader": 107,
-    "YouTube Downloader V2": 107,
+    "YouTube Downloader V2": 108,
     "TikTok Downloader": 111,
     "Text to Photo": 113,
     "Free Fire Player Info": 114,
@@ -24,6 +24,6 @@
     "Modrinth Search": 90,
     "Cinesubz Movie Downloader": 94
   },
-  "lastUpdated": "2026-10-13T18:30:45.858Z",
+  "lastUpdated": "2026-10-13T18:30:49.857Z",
   "lastVisitorDate": "2026-10-13"
 }
