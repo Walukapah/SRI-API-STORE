@@ -1,5 +1,5 @@
 {
-  "apiCalls": 2378,
+  "apiCalls": 2380,
   "visitors": 0,
   "totalVisitors": 62,
   "visitorData": {},
@@ -15,8 +15,8 @@
     "AI Art Generator": 137,
     "AI Chat": 28,
     "PornPics Search": 157,
-    "PornPics Gallery Downloader": 134,
-    "PornHub Video Downloader": 245,
+    "PornPics Gallery Downloader": 135,
+    "PornHub Video Downloader": 246,
     "PornHub Video Search": 159,
     "Google Search": 129,
     "Google Image Search": 137,
@@ -24,6 +24,6 @@
     "Modrinth Search": 113,
     "Cinesubz Movie Downloader": 116
   },
-  "lastUpdated": "2026-11-04T18:30:31.109Z",
+  "lastUpdated": "2026-11-04T18:30:33.491Z",
   "lastVisitorDate": "2026-11-04"
 }
