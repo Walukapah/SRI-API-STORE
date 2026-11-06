@@ -1,20 +1,21 @@
 {
-  "lastCheckDate": "2026-11-06",
-  "lastCheckTime": "Nov 6, 2026, 05:30 AM",
+  "lastCheckDate": "2026-11-07",
+  "lastCheckTime": "Nov 7, 2026, 05:30 AM",
   "nextCheckTime": "Nov 7, 2026, 05:30 AM",
   "endpoints": {
     "YouTube Downloader": {
       "name": "YouTube Downloader",
       "path": "/download/youtubedl",
-      "status": "offline",
-      "lastChecked": "2026-11-05T18:30:18.332Z",
-      "error": "This operation was aborted"
+      "status": "online",
+      "lastChecked": "2026-11-06T18:30:04.392Z",
+      "responseStatus": 200,
+      "hasStatusTrue": true
     },
     "YouTube Downloader V2": {
       "name": "YouTube Downloader V2",
       "path": "/download/youtubedl2",
       "status": "offline",
-      "lastChecked": "2026-11-05T18:30:18.993Z",
+      "lastChecked": "2026-11-06T18:30:05.157Z",
       "responseStatus": 500,
       "hasStatusTrue": false
     },
@@ -22,7 +23,7 @@
       "name": "TikTok Downloader",
       "path": "/download/tiktokdl",
       "status": "online",
-      "lastChecked": "2026-11-05T18:30:26.065Z",
+      "lastChecked": "2026-11-06T18:30:12.976Z",
       "responseStatus": 200,
       "hasStatusTrue": true
     },
@@ -30,7 +31,7 @@
       "name": "Instagram Downloader",
       "path": "/download/instagramdl",
       "status": "online",
-      "lastChecked": "2026-11-05T18:30:27.029Z",
+      "lastChecked": "2026-11-06T18:30:13.928Z",
       "responseStatus": 200,
       "hasStatusTrue": true
     },
@@ -38,7 +39,7 @@
       "name": "Text to Photo",
       "path": "/download/textphoto",
       "status": "offline",
-      "lastChecked": "2026-11-05T18:30:27.366Z",
+      "lastChecked": "2026-11-06T18:30:14.387Z",
       "responseStatus": 500,
       "hasStatusTrue": false
     },
@@ -46,7 +47,7 @@
       "name": "Free Fire Player Info",
       "path": "/search/freefire",
       "status": "online",
-      "lastChecked": "2026-11-05T18:30:27.663Z",
+      "lastChecked": "2026-11-06T18:30:14.487Z",
       "responseStatus": 200,
       "hasStatusTrue": true
     },
@@ -54,7 +55,7 @@
       "name": "AI Chat",
       "path": "/ai/aichat",
       "status": "offline",
-      "lastChecked": "2026-11-05T18:30:28.366Z",
+      "lastChecked": "2026-11-06T18:30:15.661Z",
       "responseStatus": 404,
       "hasStatusTrue": false
     },
@@ -62,7 +63,7 @@
       "name": "AI Art Generator",
       "path": "/ai/aiart",
       "status": "offline",
-      "lastChecked": "2026-11-05T18:30:28.797Z",
+      "lastChecked": "2026-11-06T18:30:16.361Z",
       "responseStatus": 500,
       "hasStatusTrue": false
     },
@@ -70,7 +71,7 @@
       "name": "Modrinth Search",
       "path": "/search/modriths",
       "status": "online",
-      "lastChecked": "2026-11-05T18:30:29.159Z",
+      "lastChecked": "2026-11-06T18:30:16.758Z",
       "responseStatus": 200,
       "hasStatusTrue": true
     },
@@ -78,7 +79,7 @@
       "name": "Modrinth Download",
       "path": "/download/modrithdl",
       "status": "online",
-      "lastChecked": "2026-11-05T18:30:30.459Z",
+      "lastChecked": "2026-11-06T18:30:17.364Z",
       "responseStatus": 200,
       "hasStatusTrue": true
     },
@@ -86,7 +87,7 @@
       "name": "PornPics Search",
       "path": "/search/pornpicsearch",
       "status": "online",
-      "lastChecked": "2026-11-05T18:30:31.355Z",
+      "lastChecked": "2026-11-06T18:30:18.657Z",
       "responseStatus": 200,
       "hasStatusTrue": true
     },
@@ -94,7 +95,7 @@
       "name": "PornPics Gallery Downloader",
       "path": "/download/pornpicdl",
       "status": "online",
-      "lastChecked": "2026-11-05T18:30:31.610Z",
+      "lastChecked": "2026-11-06T18:30:18.922Z",
       "responseStatus": 200,
       "hasStatusTrue": true
     },
@@ -102,7 +103,7 @@
       "name": "PornHub Video Downloader",
       "path": "/download/phdl",
       "status": "online",
-      "lastChecked": "2026-11-05T18:30:41.158Z",
+      "lastChecked": "2026-11-06T18:30:19.421Z",
       "responseStatus": 200,
       "hasStatusTrue": true
     },
@@ -110,7 +111,7 @@
       "name": "PornHub Video Search",
       "path": "/search/phs",
       "status": "online",
-      "lastChecked": "2026-11-05T18:30:48.561Z",
+      "lastChecked": "2026-11-06T18:30:26.666Z",
       "responseStatus": 200,
       "hasStatusTrue": true
     },
@@ -118,7 +119,7 @@
       "name": "Google Search",
       "path": "/search/google",
       "status": "online",
-      "lastChecked": "2026-11-05T18:30:51.159Z",
+      "lastChecked": "2026-11-06T18:30:28.965Z",
       "responseStatus": 200,
       "hasStatusTrue": true
     },
@@ -126,7 +127,7 @@
       "name": "Google Image Search",
       "path": "/search/googleimage",
       "status": "online",
-      "lastChecked": "2026-11-05T18:30:55.858Z",
+      "lastChecked": "2026-11-06T18:30:35.990Z",
       "responseStatus": 200,
       "hasStatusTrue": true
     },
@@ -134,14 +135,14 @@
       "name": "Cinesubz Movie Downloader",
       "path": "/download/cinesubzmovie",
       "status": "online",
-      "lastChecked": "2026-11-05T18:30:58.951Z",
+      "lastChecked": "2026-11-06T18:30:46.890Z",
       "responseStatus": 200,
       "hasStatusTrue": true
     }
   },
   "summary": {
-    "online": 12,
-    "offline": 5,
+    "online": 13,
+    "offline": 4,
     "total": 17
   }
 }
